@@ -67,7 +67,7 @@ td {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    max-width: 75%;
+    max-width: 80%;
     margin-top: 5%;
     margin-bottom: 5%;
     background-color: #91E5F6;
@@ -92,7 +92,7 @@ td {
 }
 
 .mainpage-button:active {
-    position: relative;file:///var/home/dominikhejl/Dokumenty/GitHub/personal-web/fotka.avif
+    position: relative;
     top: 1px;
 }
 
