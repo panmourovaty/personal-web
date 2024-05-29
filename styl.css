@@ -1,12 +1,12 @@
 @font-face {
     font-family: 'Andada Pro';
-    src: url(AndadaPro-Regular.ttf);
+    src: url(AndadaPro.woff2);
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Moustache';
-    src: url(Moustache.woff);
+    font-family: 'Linefont';
+    src: url(linelogo.woff2);
     font-display: swap;
 }
 
@@ -24,7 +24,7 @@ body {
 }
 
 h1 {
-    font-family: 'Moustache', serif;
+    font-family: 'Linefont', 'Andada Pro', serif;
     font-size: 72px;
     margin: 30px;
 }
