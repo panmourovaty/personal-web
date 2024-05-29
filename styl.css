@@ -1,11 +1,13 @@
 @font-face {
     font-family: 'Andada Pro';
     src: url(AndadaPro-Regular.ttf);
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Moustache';
     src: url(Moustache.woff);
+    font-display: swap;
 }
 
 body {
